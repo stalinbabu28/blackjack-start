@@ -1,2 +1,1 @@
-random
-replit
+replit==3.0.0  # You can specify the version number you want or leave it as is.
